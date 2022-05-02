@@ -4,11 +4,8 @@
  */
 $white: #fdfdfd;
 $black: #262626;
-$accent: #e73b93;
+$accent: rgb(0, 137, 255);
 
-/**
- * You can add any other styles below
- */
-.this-class-is-set-in-i18n-files h1 {
+.about h1 {
   color: $accent;
 }

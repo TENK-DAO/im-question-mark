@@ -1,15 +1,16 @@
 {
-  "author": "@TenKBay",
-  "siteUrl": "https://tenkbay.com",
-  "contractName": "v2.tenk.testnet",
+  "author": "@IamQuestionM4rk",
+  "siteUrl": "https://tenk-dao.github.io/im-question-mark",
+  "contractName": "iamq.tenk.testnet",
+  "image": "social-banner.png",
   "social": [
     {
-      "href": "https://discord.com/invite/UY9Xf2k",
+      "href": "https://discord.gg/NT7nZPa2rU",
       "img":  "discord.svg",
       "alt": "Discord"
     },
     {
-      "href": "https://twitter.com/TenKBay",
+      "href": "https://twitter.com/IamQuestionM4rk",
       "img":  "twitter.svg",
       "alt": "Twitter"
     }
