@@ -1,7 +1,7 @@
 {
-  "name": "frontend-starter",
+  "name": "im-question-mark",
   "private": true,
-  "description": "Template for NFT Launches on TenK",
+  "description": "mint page for I'm ?",
   "version": "0.1.0",
   "author": "Chad Ostrowski <chad@ahalabs.dev>",
   "dependencies": {
